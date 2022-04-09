@@ -1,0 +1,272 @@
+[
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "a",
+    "type": "vowel",
+    "syllable": "a1",
+    "context": "_1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/a_a1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/a_a1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "b",
+    "type": "consonant",
+    "syllable": "bang1",
+    "context": "_ang1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/b_bang1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/b_bang1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "c",
+    "type": "consonant",
+    "syllable": "ci3",
+    "context": "_i3",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/c_ci3.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/c_ci3.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "ch",
+    "type": "consonant",
+    "syllable": "chi1",
+    "context": "_i1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/ch_chi1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/ch_chi1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "d",
+    "type": "consonant",
+    "syllable": "duan1",
+    "context": "_uan1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/d_duan1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/d_duan1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "e",
+    "type": "vowel",
+    "syllable": "e2",
+    "context": "_2",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/e_e2.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/e_e2.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "f",
+    "type": "consonant",
+    "syllable": "fei1",
+    "context": "_ei1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/f_fei1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/f_fei1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "g",
+    "type": "consonant",
+    "syllable": "gan1",
+    "context": "_an1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/g_gan1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/g_gan1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "h",
+    "type": "consonant",
+    "syllable": "hou3",
+    "context": "_ou3",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/h_hou3.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/h_hou3.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "i",
+    "type": "vowel",
+    "syllable": "i1",
+    "context": "_1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/i_i1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/i_i1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "j",
+    "type": "consonant",
+    "syllable": "jiao4",
+    "context": "_iao4",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/j_jiao4.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/j_jiao4.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "k",
+    "type": "consonant",
+    "syllable": "kou3",
+    "context": "_ou3",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/k_kou3.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/k_kou3.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "l",
+    "type": "consonant",
+    "syllable": "lai2",
+    "context": "_ai2",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/l_lai2.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/l_lai2.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "m",
+    "type": "consonant",
+    "syllable": "ming2",
+    "context": "_ing2",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/m_ming2.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/m_ming2.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "n",
+    "type": "consonant",
+    "syllable": "ni2",
+    "context": "_i2",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/n_ni2.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/n_ni2.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "ng",
+    "type": "consonant",
+    "syllable": "jiang_1",
+    "context": "jia_1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/ng_jiang1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/ng_jiang1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "p",
+    "type": "consonant",
+    "syllable": "pang2",
+    "context": "_ang2",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/p_pang2.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/p_pang2.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "q",
+    "type": "consonant",
+    "syllable": "qu4",
+    "context": "_u4",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/q_qu4.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/q_qu4.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "r",
+    "type": "consonant",
+    "syllable": "ri4",
+    "context": "_i4",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/r_ri4.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/r_ri4.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "s",
+    "type": "consonant",
+    "syllable": "si1",
+    "context": "_i1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/s_si1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/s_si1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "sh",
+    "type": "consonant",
+    "syllable": "shi3",
+    "context": "_i3",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/sh_shi3.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/sh_shi3.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "t",
+    "type": "consonant",
+    "syllable": "tou4",
+    "context": "_ou4",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/t_tou4.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/t_tou4.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "u",
+    "type": "vowel",
+    "syllable": "u1",
+    "context": "_1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/u_u1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/u_u1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "x",
+    "type": "consonant",
+    "syllable": "xiao3",
+    "context": "_iao3",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/x_xiao3.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/x_xiao3.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "y",
+    "type": "vowel",
+    "syllable": "y1",
+    "context": "_1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/y_y1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/y_y1.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "z",
+    "type": "consonant",
+    "syllable": "zi3",
+    "context": "_i3",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/z_zi3.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/z_zi3.jpg"
+  },
+  {
+    "language": "Mandarin-Taiwan",
+    "platform": "GetContours",
+    "segment": "zh",
+    "type": "consonant",
+    "syllable": "zhi1",
+    "context": "_i1",
+    "tracedImage": "ultrasound/traced/mandarin-taiwan/zh_zhi1.png",
+    "rawImage": "ultrasound/raw/mandarin-taiwan/zh_zhi1.jpg"
+  }
+]

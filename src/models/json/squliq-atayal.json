@@ -1,0 +1,222 @@
+[
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "ə",
+    "type": "vowel",
+    "syllable": "kə",
+    "context": "k_",
+    "tracedImage": "ultrasound/traced/squliq-atayal/ə_kmal.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/ə_kmal.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "o",
+    "type": "vowel",
+    "syllable": "to",
+    "context": "t_",
+    "tracedImage": "ultrasound/traced/squliq-atayal/o_toyuw.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/o_toyuw.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "ɣ",
+    "type": "consonant",
+    "syllable": "ɣə",
+    "context": "_ə",
+    "tracedImage": "ultrasound/traced/squliq-atayal/ɣ_cigtwi'.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/ɣ_cigtwi'.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "ʔ",
+    "type": "consonant",
+    "syllable": "ʔə",
+    "context": "_ə",
+    "tracedImage": "ultrasound/traced/squliq-atayal/ʔ_m'uy.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/ʔ_m'uy.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "e",
+    "type": "vowel",
+    "syllable": "ke",
+    "context": "k_",
+    "tracedImage": "ultrasound/traced/squliq-atayal/e_ke.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/e_ke.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "n",
+    "type": "nasal",
+    "syllable": "njux",
+    "context": "_j",
+    "tracedImage": "ultrasound/traced/squliq-atayal/n_nyux.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/n_nyux.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "ʦ",
+    "type": "consonant",
+    "syllable": "ʦi",
+    "context": "_i",
+    "tracedImage": "ultrasound/traced/squliq-atayal/ʦ_cikay.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/ʦ_cikay.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "q",
+    "type": "consonant",
+    "syllable": "qa",
+    "context": "_a",
+    "tracedImage": "ultrasound/traced/squliq-atayal/q_Qawil.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/q_Qawil.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "s",
+    "type": "consonant",
+    "syllable": "sa",
+    "context": "_a",
+    "tracedImage": "ultrasound/traced/squliq-atayal/s_saku'.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/s_saku'.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "ŋ",
+    "type": "nasal",
+    "syllable": "ŋi",
+    "context": "_i",
+    "tracedImage": "ultrasound/traced/squliq-atayal/ŋ_zngi.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/ŋ_zngi.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "l",
+    "type": "consonant",
+    "syllable": "mal",
+    "context": "a_",
+    "tracedImage": "ultrasound/traced/squliq-atayal/l_kmal.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/l_kmal.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "i",
+    "type": "vowel",
+    "syllable": "li",
+    "context": "l_",
+    "tracedImage": "ultrasound/traced/squliq-atayal/i_mlikuy.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/i_mlikuy.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "u",
+    "type": "vowel",
+    "syllable": "kuʔ",
+    "context": "k_ʔ",
+    "tracedImage": "ultrasound/traced/squliq-atayal/u_saku'.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/u_saku'.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "r",
+    "type": "consonant",
+    "syllable": "ru",
+    "context": "_u",
+    "tracedImage": "ultrasound/traced/squliq-atayal/r_ru.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/r_ru.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "j",
+    "type": "glide",
+    "syllable": "kaj",
+    "context": "a_",
+    "tracedImage": "ultrasound/traced/squliq-atayal/j_cikay.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/j_cikay.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "ɨ",
+    "type": "vowel",
+    "syllable": "sɨ",
+    "context": "s_",
+    "tracedImage": "ultrasound/traced/squliq-atayal/ɨ_sbwi.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/ɨ_sbwi.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "x",
+    "type": "consonant",
+    "syllable": "njux",
+    "context": "u_",
+    "tracedImage": "ultrasound/traced/squliq-atayal/x_nyux.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/x_nyux.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "z",
+    "type": "consonant",
+    "syllable": "zɨ",
+    "context": "_ɨ",
+    "tracedImage": "ultrasound/traced/squliq-atayal/z_zngi.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/z_zngi.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "a",
+    "type": "vowel",
+    "syllable": "mal",
+    "context": "m_l",
+    "tracedImage": "ultrasound/traced/squliq-atayal/a_kmal.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/a_kmal.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "t",
+    "type": "consonant",
+    "syllable": "to",
+    "context": "_o",
+    "tracedImage": "ultrasound/traced/squliq-atayal/t_toyuw.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/t_toyuw.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "k",
+    "type": "consonant",
+    "syllable": "kə",
+    "context": "_ə",
+    "tracedImage": "ultrasound/traced/squliq-atayal/k_kmal.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/k_kmal.png"
+  },
+  {
+    "language": "Squliq-Atayal",
+    "platform": "GetContours",
+    "segment": "ħ",
+    "type": "consonant",
+    "syllable": "ħuj",
+    "context": "ħ_u",
+    "tracedImage": "ultrasound/traced/squliq-atayal/ħ_sehuy.png",
+    "rawImage": "ultrasound/raw/squliq-atayal/ħ_sehuy.png"
+  }
+]
